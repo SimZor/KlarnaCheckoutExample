@@ -1,0 +1,1 @@
+from klarnacheckout.blueprints.klarna import blueprint
